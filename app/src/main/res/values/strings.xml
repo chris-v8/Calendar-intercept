@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- SPDX-License-Identifier: GPL-3.0-or-later -->
+<resources>
+    <string name="app_name">Calendar intercept</string>
+    <string name="module_description">When Niagara Launcher\'s date widget opens today\'s date, opens your default calendar app\'s main screen instead. Other dates and events open as before. Scope: Niagara Launcher (bitpit.launcher). Force-stop Niagara after enabling.</string>
+</resources>
